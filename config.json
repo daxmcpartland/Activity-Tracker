@@ -1,0 +1,14 @@
+{
+    "processes": [
+        "discord",
+        "code",
+        "firefox",
+        "notion"
+    ],
+    "db_config": {
+        "user": "",
+        "password": "",
+        "host": "",
+        "database": ""   
+    }
+}
